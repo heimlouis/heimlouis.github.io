@@ -21,8 +21,8 @@ a {
 
 .page-title {
   text-align: left;
-  padding: 150px:
   font-weight: 500;
+  padding: 75;
 }
 
 nav ul {
@@ -38,5 +38,4 @@ nav li {
   border: 1px solid #000;
   margin: 2px;
   text-align: left;
-  padding: 150px;
 }
