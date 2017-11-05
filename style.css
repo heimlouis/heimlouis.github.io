@@ -20,14 +20,14 @@ a {
 }
 
 .page-title {
-  text-align: Center;
+  text-align: left;
+  padding: 150px:
   font-weight: 500;
 }
 
 nav ul {
   text-align: left;
   padding: 50px;
-  font-weight: 150;
 }
 
 nav li {
