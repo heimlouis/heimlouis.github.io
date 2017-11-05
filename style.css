@@ -25,13 +25,12 @@ a {
 }
 
 nav ul {
-  text-align: center;
-  font-weight: 50;
-  display: inline;
+  text-align: left;
+  padding: 50px;
+  font-weight: 150;
 }
 
 nav li {
-  text-align: center;
   display: inline;
 }
 
@@ -39,5 +38,5 @@ nav li {
   border: 1px solid #000;
   margin: 2px;
   text-align: left;
-  padding: 20px;
+  padding: 150px;
 }
