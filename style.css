@@ -1,7 +1,9 @@
-h1 {
-  font-size: 65px;
-}
-
-p {
-font-size: 20px;
+#container {
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px 150px 10px 150px;
+    border-radius: 15px;
+    background-color: #C4CECD;
+    text-align: left;
 }
