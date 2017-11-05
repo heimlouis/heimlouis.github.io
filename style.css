@@ -25,13 +25,12 @@ a {
 }
 
 nav ul {
-  padding: 5px;
+  text-align: center;
+  font-weight: 50;
   display: inline;
 }
 
 nav li {
-  margin: 0;
-  padding: 5px;
   display: inline;
 }
 
