@@ -2,11 +2,11 @@
 	margin-top: 20px;
 	margin-left: 200px;
 	margin-right: 200px;
-	padding: 10px 150px 10px 150px;
-	border-radius: 15px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 5px;
 	background-color: #C4CECD;
 	text-align: left;
-	border: 10px solid #999;
+	border: 10px solid #9999;
 }
 
 #content-WorkHistory {
