@@ -1,41 +1,38 @@
-html, body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  font-weight: 300;
-  line-height: 1.5;
+#container {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 10px 150px 10px 150px;
+	border-radius: 15px;
+	background-color: #C4CECD;
+	text-align: left;
 }
 
-body {
-  font-family: 'Lato', sans-serif;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
-  background-position: center top;
-  background-size: cover;
-  margin: 0;
+#content-Work History {
+	font-size: 42px;
 }
 
-a {
-  color: #204156;
-  text-decoration: none;
+h1 {
+	font-size: 64px;
+	margin-bottom: -25px;
 }
 
-.page-title {
-  text-align: left;
-  font-size: 50px;
+h2 {
+	font-size: 18px;
+	margin-bottom: -6px;
 }
 
-.page-address {
-  text-align: left;
-  font-size: 15px;
+h3 {
+	font-size: 26px;
+	margin-bottom: -10px;
 }
 
-.page-phone {
-  text-align: left;
-  font-size: 15px;
+h4 {
+	font-size: 22px;
+	margin-bottom: -10px;
 }
 
-.page-Profile {
-  border: 1px solid #000;
-  margin: 2px;
-  text-align: left;
+li {
+	font-size: 18px;
+	text-align: left;
 }
