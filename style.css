@@ -24,13 +24,13 @@ a {
   font-weight: 100;
 }
 
-nav li {
-  margin: 0;
-  padding: 0 10px;
+nav ul {
   display: inline;
 }
 
-nav ul {
+nav li {
+  margin: 0;
+  padding: 0 10px;
   display: inline;
 }
 
