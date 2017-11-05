@@ -16,7 +16,9 @@
 h1 {
 	font-size: 64px;
 	margin-bottom: -25px;
-	border: 1px solid #999;
+	border-bottom: 5px solid #999;
+	border-bottom: 3px solid #555;
+	border-bottom: 5px solid #999;
 }
 
 h2 {
