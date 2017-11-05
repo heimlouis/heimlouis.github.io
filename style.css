@@ -21,13 +21,12 @@ a {
 
 .page-title {
   text-align: left;
-  font-weight: 500;
-  padding: 75;
+  font-weight: 100;
 }
 
 nav ul {
   text-align: left;
-  padding: 50px;
+  padding: 500px;
 }
 
 nav li {
