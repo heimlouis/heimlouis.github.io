@@ -24,9 +24,30 @@ a {
   font-weight: 100;
 }
 
-.page-profile {
+.page-Address1 {
   border: 1px solid #000;
   margin: 2px;
   text-align: center;
-  padding: 30px;
+  padding: 3px;
+}
+
+.page-Address2 {
+  border: 1px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding: 3px;
+}
+
+.page-PhoneNum {
+  border: 1px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding: 3px;
+}
+
+.page-Profile {
+  border: 1px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding: 20px;
 }
