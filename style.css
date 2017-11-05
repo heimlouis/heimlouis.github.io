@@ -20,34 +20,34 @@ a {
 }
 
 .page-title {
-  text-align: center;
+  text-align: left;
   font-weight: 100;
 }
 
 .page-Address1 {
   border: 1px solid #000;
   margin: 2px;
-  text-align: center;
+  text-align: left;
   padding: 3px;
 }
 
 .page-Address2 {
   border: 1px solid #000;
   margin: 2px;
-  text-align: center;
+  text-align: lect;
   padding: 3px;
 }
 
 .page-PhoneNum {
   border: 1px solid #000;
   margin: 2px;
-  text-align: center;
+  text-align: left;
   padding: 3px;
 }
 
 .page-Profile {
   border: 1px solid #000;
   margin: 2px;
-  text-align: center;
+  text-align: left;
   padding: 20px;
 }
