@@ -41,6 +41,10 @@ h4 {
 	margin-bottom: -10px;
 }
 
+.block-content {
+	padding: 5px 0px 0px 0px;
+}
+
 .date {
 	font-size: 16px;
 	float: right;
