@@ -10,8 +10,9 @@
 }
 
 #content-WorkHistory {
-	font-size: 35px;
-	border: 1px solid #000000;
+	font-size: 30px;
+	border: 1px solid #bfbfbf;
+	padding: 10px 15px 10px 15px;
 }
 
 h1 {
