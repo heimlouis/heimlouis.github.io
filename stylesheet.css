@@ -15,6 +15,12 @@
 	padding: 10px 15px 10px 15px;
 }
 
+#content-ResumeSummary {
+	font-size: 30px;
+	border: 1px solid #bfbfbf;
+	padding: 10px 15px 10px 15px;
+}
+
 h1 {
 	font-size: 64px;
 	margin-bottom: -5px;
