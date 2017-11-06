@@ -1,4 +1,4 @@
-.container {
+#container {
 	margin-top: 25px;
 	margin-left: 165px;
 	margin-right: 165px;
@@ -9,7 +9,7 @@
 	border: 1px solid #000000;
 }
 
-.content-WorkHistory {
+#content-WorkHistory {
 	font-size: 42px;
 }
 
