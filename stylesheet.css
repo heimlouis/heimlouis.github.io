@@ -78,4 +78,9 @@ li {
 	text-align: left;
 }
 
+li ul li {
+	font-size: 8px;
+	text-align: left;
+}
+
 
