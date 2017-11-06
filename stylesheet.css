@@ -1,6 +1,6 @@
 body {
 	font: 16px Georgia, Gill Sans;
-	background: url(Webpage-Background.png);
+	background: url(webpage-background-225x300.png);
 }
 
 #container {
@@ -9,7 +9,6 @@ body {
 	margin-right: 165px;
 	padding: 10px 100px 10px 100px;
 	border-radius: 5px;
-	background: url(webpage-background-225x300.png);
 	background-color: #f2f2f2;
 	text-align: left;
 	border: 1px solid #000000;
