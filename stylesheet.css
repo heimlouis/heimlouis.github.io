@@ -50,7 +50,7 @@ body {
 	image: url(RCTC.png);
 	hight: 25px;
 	float: left;
-	padding: 8px 3px 0px 0px;
+	padding: 16px 3px 0px 0px;
 }
 
 h1 {
@@ -98,7 +98,7 @@ h4 {
 .edu {
 	font-size: 12px;
 	float: left;
-	padding: 10px 0px 0px 0px;
+	padding: 10px 0px 0px 5px;
 }
 
 li {
