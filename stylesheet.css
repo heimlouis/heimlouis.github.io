@@ -26,6 +26,10 @@ body {
 	padding: 10px 15px 10px 15px;
 }
 
+#chrimg {
+	float: left;
+}
+
 h1 {
 	font: 55px Arial, sans-serif;
 	margin-bottom: -5px;
@@ -72,10 +76,6 @@ h4 {
 	font-size: 12px;
 	float: left;
 	padding: 15px 0px 0px 20px;
-}
-
-.chrimg {
-	float: left:
 }
 
 li {
