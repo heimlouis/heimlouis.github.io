@@ -27,6 +27,7 @@ body {
 }
 
 #chrimg {
+	image: url(chr.png);
 	float: left;
 }
 
