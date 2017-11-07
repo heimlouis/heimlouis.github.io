@@ -21,6 +21,13 @@ body {
 	padding: 10px 15px 50px 15px;
 }
 
+#content-education {
+	font: 25px Arial, sans-serif;
+	border: 1px solid #bfbfbf;
+	border-radius: 5px;
+	padding: 10px 15px 50px 15px;
+}
+
 #content-Objective {
 	font-size: 15px;
 	padding: 10px 15px 10px 15px;
