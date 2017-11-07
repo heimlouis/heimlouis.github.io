@@ -33,6 +33,16 @@ body {
 	padding: 10px 15px 10px 15px;
 }
 
+#content-RCTC {
+	font-size: 15px;
+	padding: 10px 15px 10px 15px;
+}
+
+#content-Prime {
+	font-size: 15px;
+	padding: 10px 15px 10px 15px;
+}
+
 #chrimg {
 	image: url(chr.png);
 	hight: 22px;
