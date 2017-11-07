@@ -35,9 +35,9 @@ body {
 
 #libertyimg {
 	image: url(chr.png);
-	hight: 22px;
+	hight: 25px;
 	float: left;
-	padding: 5px 3px 0px 0px;
+	padding: 7px 3px 0px 0px;
 }
 
 h1 {
