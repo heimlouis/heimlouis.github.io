@@ -47,6 +47,13 @@ body {
 	padding: 8px 3px 0px 0px;
 }
 
+#RCTCimg {
+	image: url(chr.png);
+	hight: 25px;
+	float: left;
+	padding: 8px 3px 0px 0px;
+}
+
 h1 {
 	font: 55px Arial, sans-serif;
 	margin-bottom: -5px;
