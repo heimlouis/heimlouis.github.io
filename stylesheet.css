@@ -66,13 +66,13 @@ h4 {
 .date {
 	font-size: 12px;
 	float: right;
-	padding: 15px 0px 0px 0px;
+	padding: 12px 0px 0px 0px;
 }
 
 .job {
 	font-size: 12px;
 	float: left;
-	padding: 15px 0px 0px 0px;
+	padding: 12px 0px 0px 3px;
 }
 
 .edu {
