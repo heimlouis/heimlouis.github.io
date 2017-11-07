@@ -23,6 +23,7 @@ body {
 
 #content-education {
 	font: 25px Arial, sans-serif;
+	border: 1px solid #bfbfbf;
 	border-radius: 5px;
 	padding: 10px 20px 50px 15px;
 }
