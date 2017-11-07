@@ -28,8 +28,9 @@ body {
 
 #chrimg {
 	image: url(chr.png);
-	width: 20px;
+	width: 25px;
 	float: left;
+	padding: 5px 0px 0px 0px;
 }
 
 h1 {
