@@ -30,7 +30,7 @@ body {
 	image: url(chr.png);
 	hight: 18px;
 	float: left;
-	padding: 5px 0px 0px 0px;
+	padding: 5px 3px 0px 0px;
 }
 
 h1 {
@@ -72,7 +72,7 @@ h4 {
 .job {
 	font-size: 12px;
 	float: left;
-	padding: 15px 0px 0px 20px;
+	padding: 5px 0px 0px 20px;
 }
 
 .edu {
