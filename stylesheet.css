@@ -61,14 +61,14 @@ body {
 	image: url(RCTC.png);
 	hight: 27px;
 	float: left;
-	padding: 7px 3px 0px 0px;
+	padding: 17px 3px 0px 0px;
 }
 
 #Primeimg {
 	image: url(Prime.png);
 	hight: 27px;
 	float: left;
-	padding: 7px 3px 0px 0px;
+	padding: 17px 3px 0px 0px;
 }
 
 h1 {
