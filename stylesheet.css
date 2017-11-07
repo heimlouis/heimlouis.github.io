@@ -33,6 +33,13 @@ body {
 	padding: 5px 3px 0px 0px;
 }
 
+#libertyimg {
+	image: url(chr.png);
+	hight: 22px;
+	float: left;
+	padding: 5px 3px 0px 0px;
+}
+
 h1 {
 	font: 55px Arial, sans-serif;
 	margin-bottom: -5px;
