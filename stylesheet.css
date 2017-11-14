@@ -14,6 +14,11 @@ body {
 	border: 1px solid #000000;
 }
 
+#citystatepostal {
+	font-size: 14px;
+	text-align: center;
+}
+
 #content-WorkHistory {
 	font: 25px Arial, sans-serif;
 	border: 1px solid #bfbfbf;
@@ -103,21 +108,6 @@ h4 {
 	text-align: center;
 	margin-top: 5px;
 	/*margin-bottom: -10px;*/
-}
-
-.city {
-	font-size: 14px;
-	text-align: center;
-}
-
-.state {
-	font-size: 14px;
-	text-align: center;
-}
-
-.postal {
-	font-size: 14px;
-	text-align: center;
 }
 
 .country {
