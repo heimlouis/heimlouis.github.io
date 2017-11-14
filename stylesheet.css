@@ -98,6 +98,36 @@ h4 {
 	margin-bottom: -10px;
 }
 
+.street-address {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+.locality {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+.region {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+.postal-code {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+.country-name {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: -10px;
+}
+
 .block-content {
 	padding: 15px 0px 0px 25px;
 }
