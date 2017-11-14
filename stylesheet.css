@@ -19,6 +19,12 @@ body {
 	text-align: center;
 }
 
+#phone {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: -10px;
+}
+
 #content-WorkHistory {
 	font: 25px Arial, sans-serif;
 	border: 1px solid #bfbfbf;
